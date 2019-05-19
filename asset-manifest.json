@@ -1,0 +1,15 @@
+{
+  "main.css": "/react-counter-app/static/css/main.5f4aa27e.chunk.css",
+  "main.js": "/react-counter-app/static/js/main.682621bc.chunk.js",
+  "main.js.map": "/react-counter-app/static/js/main.682621bc.chunk.js.map",
+  "static/css/1.8f04e009.chunk.css": "/react-counter-app/static/css/1.8f04e009.chunk.css",
+  "static/js/1.e497f18d.chunk.js": "/react-counter-app/static/js/1.e497f18d.chunk.js",
+  "static/js/1.e497f18d.chunk.js.map": "/react-counter-app/static/js/1.e497f18d.chunk.js.map",
+  "runtime~main.js": "/react-counter-app/static/js/runtime~main.d94ecedb.js",
+  "runtime~main.js.map": "/react-counter-app/static/js/runtime~main.d94ecedb.js.map",
+  "static/css/1.8f04e009.chunk.css.map": "/react-counter-app/static/css/1.8f04e009.chunk.css.map",
+  "static/css/main.5f4aa27e.chunk.css.map": "/react-counter-app/static/css/main.5f4aa27e.chunk.css.map",
+  "index.html": "/react-counter-app/index.html",
+  "precache-manifest.3e2fc866109408f194a2af55a7727fe4.js": "/react-counter-app/precache-manifest.3e2fc866109408f194a2af55a7727fe4.js",
+  "service-worker.js": "/react-counter-app/service-worker.js"
+}
